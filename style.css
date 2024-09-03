@@ -1,0 +1,52 @@
+body{
+    background-color: #bcf3f6;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #e6edf0;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+}
+a:hover{
+    color: white;
+    background-color: black;
+}
+#titulo{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    margin: 5px;
+}
+.nav{
+    text-align: center;
+}
+.text1, .text2{
+    margin:10px;
+    padding: 10px;
+    border: 2px solid #a3b5c8;
+    border-radius: 5px;
+    background-color: white;
+}
+.global{
+    margin:10px;
+    padding: 10px;
+    border: 2px solid #a3b5c8;
+    border-radius: 5px;
+    background-color: rgb(120, 90, 175);
+}
+.text3{
+    margin:10px;
+    padding: 10px;
+    border: 2px solid #a3b5c8;
+    border-radius: 5px;
+    background-color: white;
+}
